@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "status": "string",
+    "resultado": 2
+  },
+  {
+    "id": 2,
+    "descricao": "Estudar NestJS",
+    "status": "PENDENTE",
+    "resultado": null
+  },
+  {
+    "id": 3,
+    "descricao": "sadasdas asdas",
+    "status": "PENDENTE",
+    "resultado": null
+  }
+]
